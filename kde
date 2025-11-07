@@ -26,8 +26,7 @@ konsole
 kscreen
 kwallet-pam
 kwayland-integration
-libappindicator-gtk3
-maliit-keyboard
+libappindicator
 okular
 plasma-browser-integration
 plasma-desktop
