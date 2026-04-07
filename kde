@@ -3,7 +3,6 @@ bluedevil
 breeze-gtk
 dolphin
 dolphin-plugins
-eos-breeze-sddm
 ffmpegthumbs
 fwupd
 gwenview
@@ -28,10 +27,11 @@ kwallet-pam
 kwayland-integration
 libappindicator
 okular
+partitionmanager
 plasma-browser-integration
 plasma-desktop
 plasma-disks
-plasma-firewall
+plasma-keyboard
 plasma-nm
 plasma-pa
 plasma-systemmonitor

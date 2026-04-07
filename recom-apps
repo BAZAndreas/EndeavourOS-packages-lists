@@ -6,8 +6,8 @@ hwinfo
 inxi
 meld
 nano-syntax-highlighting
-pv
 python-defusedxml
+python-jinja
 python-packaging
 rsync
 tldr
@@ -16,5 +16,5 @@ vi
 wget
 firefox
 firewalld
-python-pyqt6
+firewall-applet
 aspell

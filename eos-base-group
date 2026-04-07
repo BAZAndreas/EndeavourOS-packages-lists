@@ -1,4 +1,3 @@
-libwnck3
 mesa-utils
 xf86-input-libinput
 xorg-xdpyinfo
@@ -7,9 +6,8 @@ xorg-xinit
 xorg-xinput
 xorg-xkill
 xorg-xrandr
-xf86-video-amdgpu
-xf86-video-ati
 b43-fwcutter
+dialog
 dnsmasq
 dnsutils
 ethtool
@@ -21,6 +19,8 @@ networkmanager-openvpn
 nss-mdns
 openssh
 usb_modeswitch
+whois
+wireless-regdb
 wpa_supplicant
 xl2tpd
 downgrade
@@ -33,7 +33,6 @@ accountsservice
 bash-completion
 bluez
 bluez-utils
-ffmpegthumbnailer
 gst-libav
 gst-plugin-pipewire
 gst-plugins-bad
@@ -83,5 +82,3 @@ sg3_utils
 sof-firmware
 power-profiles-daemon
 upower
-amd-ucode
-intel-ucode
